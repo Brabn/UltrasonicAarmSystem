@@ -1,10 +1,13 @@
 # UltrasonicAarmSystem
 Alarm system with ultrasonic proximity sensors
+
 When the proximity sensor is triggered (when approaching or moving away to a certain distance or when motion is detected), a sound signal or a pre-made recording is output. Each sensor can be configured independently. The recording displayed on the speakers is different, depending on the triggered sensor, or one for all
 The sound signal can be turned off either after the obstacle disappears, or will continue until manual shutdown. 
-It is possible to install sensors both in parallel with overlapping fields of view (the formation of a certain zone, approaching which will trigger an alarm) or in a chain (an invisible plane, the intersection of which will trigger an alarm)
-Audio recording files are stored in mp3 format on a microSD card
-The system is assembled in a compact case for wall mounting with power connectors (7-12V) and a 3.5 jack for connecting a speaker. Various types of sensors can be connected to the system - infrared photoelectric, ultrasonic, laser. (test sample assembled using ultrasonic sensors)
+
+It is possible to install sensors both in parallel with overlapping fields of view (the formation of a certain zone, approaching which will trigger an alarm) or in a chain (an invisible plane, the intersection of which will trigger an alarm).
+
+Audio recording files are stored in mp3 format on a microSD card. 
+The system is assembled in a compact case for wall mounting with power connectors (7-12V) and a 3.5 jack for connecting a speaker. Various types of sensors can be connected to the system - infrared photoelectric, ultrasonic, laser. (test sample assembled using ultrasonic sensors).
 
 
 # System parameters:
