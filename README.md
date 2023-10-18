@@ -9,7 +9,7 @@ It is possible to install sensors both in parallel with overlapping fields of vi
 Audio recording files are stored in mp3 format on a microSD card. 
 The system is assembled in a compact case for wall mounting with power connectors (7-12V) and a 3.5 jack for connecting a speaker. Various types of sensors can be connected to the system - infrared photoelectric, ultrasonic, laser. (test sample assembled using ultrasonic sensors).
 
-## Function
+## Functions
 System can be installed in different configuration to use for following reason:
 * Alarm system to turn on audio signal (loud siren or unheard from outside warning) 
 * Perimeter control system for notification of crossing the control line. Can be used for a sound signal and for counting the number of movements
@@ -60,7 +60,7 @@ Each of the sensors allows you to cover 3-4m2. Due to the geometry of the field 
 * Power supply 220V/120V - > 9V 500mA
 
 
-# Wiring diagram
+## Wiring diagram
  
 
 ## Further development of the system
