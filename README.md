@@ -9,8 +9,29 @@ It is possible to install sensors both in parallel with overlapping fields of vi
 Audio recording files are stored in mp3 format on a microSD card. 
 The system is assembled in a compact case for wall mounting with power connectors (7-12V) and a 3.5 jack for connecting a speaker. Various types of sensors can be connected to the system - infrared photoelectric, ultrasonic, laser. (test sample assembled using ultrasonic sensors).
 
+## Function
+System can be installed in different configuration to use for following reason:
+* Alarm system to turn on audio signal (loud siren or unheard from outside warning) 
+* Perimeter control system for notification of crossing the control line. Can be used for a sound signal and for counting the number of movements
+* Visitors counting system, when after crossing the control line the counter is triggered
+* Traffic control, when, thanks to the installation of a pair of sensors in succession, it becomes possible to determine in which direction the intruder was moving
+* Automatic system for turning on lighting and other smart home functions (triffered by approaching control line)
+ 
+## Installation
+System can be installed in different configuration:
+1 Parallel installation of sensors. 
+ 	Allows to accurately determine the approach distance for triggering. Due to the relatively narrow field of view, each sensor covers a front up to 1 m wide and up to 4 m deep
 
-# System parameters:
+1 Sequential installation of sensors (on poles, trees or other objects). 
+ 
+Allows you to form a chain that makes up an extended control line. Since all sensors are configured to operate at any distance, the system is triggered only discretely (the approach distance cannot be adjusted) The length of the control line depends on the number of sensors in the chain (up to 4m per sensor)
+
+1 Installation of sensors in the gate opening. 
+ 	Allows you to control the intersection of an opening at any height (birds, drones, etc.)
+Each of the sensors allows you to cover 3-4m2. Due to the geometry of the field of view, it is advisable to install sensors with overlap.
+
+## System parameters:
+
 * Main controller		– Arduino Uno 
 * Processor 			– 16 MGh, ATmega328P
 * Controller memory		– 32 KB Flash + 2 kB SRAM + 1kB EEPROM
@@ -31,21 +52,28 @@ The system is assembled in a compact case for wall mounting with power connector
     - 230 g (whole package with controller box, power supply, 3 sensors and wiring)
 
 
-# Components
+## Components
 * Controller Arduino UNO 
 * SparkFun MP3 Player Shield
 * MicroSD card 2Gb
 * Ultrasonic Proximity sensors  HC-SR04 – 3 pcs
 * Power supply 220V/120V - > 9V 500mA
 
+
 # Wiring diagram
  
 
-# Further development of the system
-* Connection different types of sensors
+## Further development of the system
+* Connection different types of sensors (infrared, laser, capacitive)
+* Connection to Smart home network
+* Increase quantity of sensors
+* Adding subgroups of sensors with different triggering parameters and signal type
+* Remote control of system:
+    - Remote control (Bluetooth, 2.4GGh etc.)
+    - Web interface
+    - Control via mobile network (SMS-informing and control commands)
 
- 
-# Photos
+## Photos
 
 
  
