@@ -90,8 +90,6 @@ Each of the sensors allows you to cover 3-4m2. Due to the geometry of the field 
 
 ![Main box of alarm system without cover](https://github.com/Brabn/UltrasonicAlarmSystem/blob/main/Photos/UltrasonicAlarmSystem.ControllerBox_opened.jpg)
 
-![Main components of alarm system ](https://github.com/Brabn/UltrasonicAlarmSystem/blob/main/Photos/UltrasonicAlarmSystem.UltrasonicAlarmSystem.Controller.jpg)
-
 ![All components of alarm system without box](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photos/UltrasonicAarmSystem.Controller.jpg)
 
  
