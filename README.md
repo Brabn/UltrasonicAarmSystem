@@ -1,6 +1,8 @@
 # UltrasonicAarmSystem
 Alarm system with ultrasonic proximity sensors
 
+![Genral view of system](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photo/UltrasonicAarmSystem.AllComponents.jpg)
+
 When the proximity sensor is triggered (when approaching or moving away to a certain distance or when motion is detected), a sound signal or a pre-made recording is output. Each sensor can be configured independently. The recording displayed on the speakers is different, depending on the triggered sensor, or one for all
 The sound signal can be turned off either after the obstacle disappears, or will continue until manual shutdown. 
 
