@@ -25,19 +25,19 @@ System can be installed in different configuration:
 
 ![Schema for parallel installation of sensors](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photos/UltrasonicAlarmSystem.Wall.jpg)
 
- 	Allows to accurately determine the approach distance for triggering. Due to the relatively narrow field of view, each sensor covers a front up to 1 m wide and up to 4 m deep
+Allows to accurately determine the approach distance for triggering. Due to the relatively narrow field of view, each sensor covers a front up to 1 m wide and up to 4 m deep
   
 1 Sequential installation of sensors (on poles, trees or other objects). 
 
 ![Schema for Sequential installation of sensors](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photos/UltrasonicAlarmSystem.InLine.jpg)
 
-Allows you to form a chain that makes up an extended control line. Since all sensors are configured to operate at any distance, the system is triggered only discretely (the approach distance cannot be adjusted) The length of the control line depends on the number of sensors in the chain (up to 4m per sensor)
+Allows to form a chain that makes up an extended control line. Since all sensors are configured to operate at any distance, the system is triggered only discretely (the approach distance cannot be adjusted) The length of the control line depends on the number of sensors in the chain (up to 4m per sensor)
 
 1 Installation of sensors in the gate opening. 
 
 ![Schema for installation of sensors in the gate opening](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photos/UltrasonicAlarmSystem.Gate.jpg)
 
- 	Allows you to control the intersection of an opening at any height (birds, drones, etc.)
+Allows you to control the intersection of an opening at any height (birds, drones, etc.)
 Each of the sensors allows you to cover 3-4m2. Due to the geometry of the field of view, it is advisable to install sensors with overlap.
 
 ## System parameters:
@@ -86,11 +86,11 @@ Each of the sensors allows you to cover 3-4m2. Due to the geometry of the field 
 
 ## Photos
 
-![Alarm system connected to power supply](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Wiring_diagram/UltrasonicAarmSystem.PoweredOn.jpg)
+![Alarm system connected to power supply](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photos/UltrasonicAarmSystem.PoweredOn.jpg)
 
-![Main box of alarm system without cover](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Wiring_diagram/UltrasonicAarmSystem.ControllerBox_opened.jpg)
+![Main box of alarm system without cover](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photos/UltrasonicAarmSystem.ControllerBox_opened.jpg)
 
-![All components of alarm system without box](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Wiring_diagram/UltrasonicAarmSystem.Controller.jpg)
+![All components of alarm system without box](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photos/UltrasonicAarmSystem.Controller.jpg)
 
  
  
