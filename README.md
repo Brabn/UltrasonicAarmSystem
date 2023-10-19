@@ -1,4 +1,4 @@
-# UltrasonicAarmSystem
+# UltrasonicAlarmSystem
 Alarm system with ultrasonic proximity sensors
 
 ![Genral view of system](https://github.com/Brabn/UltrasonicAarmSystem/blob/main/Photo/UltrasonicAarmSystem.AllComponents.jpg)
