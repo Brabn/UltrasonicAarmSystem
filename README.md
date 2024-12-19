@@ -1,5 +1,5 @@
 # UltrasonicAlarmSystem
-Alarm system with ultrasonic proximity sensors
+[Alarm system](https://techi-news.com/Projects/Alarm-system-with-ultrasonic-proximity-sensors) with ultrasonic proximity sensors
 
 ![Genral view of system](https://github.com/Brabn/UltrasonicAlarmSystem/blob/main/Photos/UltrasonicAlarmSystem.AllComponents.jpg)
 
